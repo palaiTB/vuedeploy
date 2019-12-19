@@ -44,7 +44,7 @@ export default {
   name: 'HelloWorld',
   data () {
     return {
-      msg: 'Welcome My boy!'
+      msg: 'Chhotu is great!'
     }
   }
 }
